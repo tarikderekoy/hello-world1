@@ -1,1 +1,4 @@
-# hello-world1
+# hello-world1 
+
+Hi, I'm Tarik, just learning JavaScript. 
+
